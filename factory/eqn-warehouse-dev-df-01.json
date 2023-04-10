@@ -1,0 +1,9 @@
+{
+	"name": "eqn-warehouse-dev-df-01",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "centralindia"
+}
